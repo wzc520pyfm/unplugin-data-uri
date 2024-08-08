@@ -5,13 +5,13 @@
   "packageManager": "pnpm@8.6.12",
   "description": "A universal bundler plugin which imports modules from Data URIs.",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/unplugin-data-uri#readme",
+  "homepage": "https://github.com/wzc520pyfm/unplugin-data-uri#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/unplugin-data-uri.git"
+    "url": "git+https://github.com/wzc520pyfm/unplugin-data-uri.git"
   },
   "bugs": {
-    "url": "https://github.com/antfu/unplugin-data-uri/issues"
+    "url": "https://github.com/wzc520pyfm/unplugin-data-uri/issues"
   },
   "keywords": [
     "unplugin",
